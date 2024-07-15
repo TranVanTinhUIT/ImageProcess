@@ -1,0 +1,33 @@
+[33m3d40838[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: Add epochs sigma50
+[33m30e4633[m HEAD@{1}: commit: Complete sigma15, create Init folder for sigma50
+[33md37d8f4[m HEAD@{2}: pull origin master: Fast-forward
+[33m6554d09[m HEAD@{3}: commit: Add epochs sigma25 (to 150)
+[33mdc0ea44[m HEAD@{4}: commit: Add epochs 1 & 2 for sigma15
+[33mb0d3c53[m HEAD@{5}: commit: Update ipynb file
+[33mef782be[m HEAD@{6}: commit: Add sigm15 and epochs sigma25 to 122
+[33m8ef4081[m HEAD@{7}: commit: Add sigm25 epochs 113
+[33m995b6f6[m HEAD@{8}: commit: Update code
+[33mb7d9da6[m HEAD@{9}: commit: Update code
+[33mb388b31[m HEAD@{10}: commit: Update name
+[33me314e8e[m HEAD@{11}: commit: Update name
+[33m86a5bd5[m HEAD@{12}: commit: Add test models
+[33m7b25cb9[m HEAD@{13}: commit: Done train Blind Process
+[33mc2ed19f[m HEAD@{14}: pull: Fast-forward
+[33md7ba4f3[m HEAD@{15}: commit: Add Blind epochs (131 to 150), add sigma25 epochs (017 to 060)
+[33mcb4c199[m HEAD@{16}: pull: Fast-forward
+[33mace7f01[m HEAD@{17}: commit: Add epochs blind(124 to 130) and create sigma25
+[33mec0db59[m HEAD@{18}: commit: Update kaggle sigma25
+[33m8dedac1[m HEAD@{19}: commit (merge): Update epoch 111 to 123
+[33me1f14d0[m HEAD@{20}: reset: moving to HEAD
+[33me1f14d0[m HEAD@{21}: commit: Update epochs 111 to 123
+[33m3c5d963[m HEAD@{22}: pull origin master: Fast-forward
+[33m7dc3f7b[m HEAD@{23}: commit: Add sigma25 epoch 23-25
+[33m0d5f131[m HEAD@{24}: pull origin master: Fast-forward
+[33mccbd937[m HEAD@{25}: commit: Add sigma25 epoch 21,22
+[33m715dff2[m HEAD@{26}: commit: Update folder rddcnn_real_sigma_realtrain name, update 'epcoh' to 'epoch', upload sigma25 epoch 20
+[33mbec3feb[m HEAD@{27}: commit: Add more path of sigma25
+[33m1e254ad[m HEAD@{28}: pull origin master: Fast-forward
+[33m54a1d18[m HEAD@{29}: commit: Add model sigma 25
+[33m15130ab[m HEAD@{30}: commit: Add ipynb and update some code for train
+[33mf46ce71[m HEAD@{31}: commit: Init & data
+[33mb6662ea[m HEAD@{32}: clone: from https://github.com/HaKietHung2905/RDDCNN.git
