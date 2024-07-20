@@ -1,0 +1,109 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+/content/ImageProcess
+init weights finished
+/usr/local/lib/python3.8/site-packages/torch/functional.py:512: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at ../aten/src/ATen/native/TensorShape.cpp:3587.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Figure(640x480)
+F
+results/Set12_sigma50_B/07_16.751.tiff
+F
+results/Set12_sigma50_B/07_14.146.tiff
+image:  07.png
+psnt: 16.751039010393285
+Figure(640x480)
+F
+results/Set12_sigma50_B/01_16.719.tiff
+F
+results/Set12_sigma50_B/01_14.146.tiff
+image:  01.png
+psnt: 16.718823239691535
+Figure(640x480)
+F
+results/Set12_sigma50_B/02_16.568.tiff
+F
+results/Set12_sigma50_B/02_14.146.tiff
+image:  02.png
+psnt: 16.568388775977393
+Figure(640x480)
+F
+results/Set12_sigma50_B/08_16.527.tiff
+F
+results/Set12_sigma50_B/08_14.160.tiff
+image:  08.png
+psnt: 16.5271785876388
+Figure(640x480)
+F
+results/Set12_sigma50_B/03_16.497.tiff
+F
+results/Set12_sigma50_B/03_14.146.tiff
+image:  03.png
+psnt: 16.49722046616588
+Figure(640x480)
+F
+results/Set12_sigma50_B/10_16.464.tiff
+F
+results/Set12_sigma50_B/10_14.160.tiff
+image:  10.png
+psnt: 16.463587319642468
+Figure(640x480)
+F
+results/Set12_sigma50_B/12_16.413.tiff
+F
+results/Set12_sigma50_B/12_14.160.tiff
+image:  12.png
+psnt: 16.412715641872897
+Figure(640x480)
+F
+results/Set12_sigma50_B/04_16.653.tiff
+F
+results/Set12_sigma50_B/04_14.146.tiff
+image:  04.png
+psnt: 16.653310060690313
+Figure(640x480)
+F
+results/Set12_sigma50_B/06_16.833.tiff
+F
+results/Set12_sigma50_B/06_14.146.tiff
+image:  06.png
+psnt: 16.832744208911617
+Figure(640x480)
+F
+results/Set12_sigma50_B/09_16.616.tiff
+F
+results/Set12_sigma50_B/09_14.160.tiff
+image:  09.png
+psnt: 16.616112431125522
+Figure(640x480)
+F
+results/Set12_sigma50_B/11_16.479.tiff
+F
+results/Set12_sigma50_B/11_14.160.tiff
+image:  11.png
+psnt: 16.47946444591694
+Figure(640x480)
+F
+results/Set12_sigma50_B/05_16.558.tiff
+F
+results/Set12_sigma50_B/05_14.146.tiff
+image:  05.png
+psnt: 16.557553927176865
+psnrs:  [16.751039010393285, 16.718823239691535, 16.568388775977393, 16.5271785876388, 16.49722046616588, 16.463587319642468, 16.412715641872897, 16.653310060690313, 16.832744208911617, 16.616112431125522, 16.47946444591694, 16.557553927176865]
+Mean      Set12: 16.59dB 

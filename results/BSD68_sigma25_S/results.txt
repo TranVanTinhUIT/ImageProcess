@@ -1,0 +1,501 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+/content/ImageProcess
+init weights finished
+/usr/local/lib/python3.8/site-packages/torch/functional.py:512: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at ../aten/src/ATen/native/TensorShape.cpp:3587.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00047_26.679.tiff
+F
+results/BSD68_sigma25_S/00047_20.185.tiff
+image:  00047.bmp
+psnt: 26.6789027497431
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00045_33.734.tiff
+F
+results/BSD68_sigma25_S/00045_20.185.tiff
+image:  00045.bmp
+psnt: 33.73362292118357
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00002_30.304.tiff
+F
+results/BSD68_sigma25_S/00002_20.185.tiff
+image:  00002.bmp
+psnt: 30.304182292795332
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00014_30.994.tiff
+F
+results/BSD68_sigma25_S/00014_20.185.tiff
+image:  00014.bmp
+psnt: 30.994061358120778
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00003_30.138.tiff
+F
+results/BSD68_sigma25_S/00003_20.185.tiff
+image:  00003.bmp
+psnt: 30.138273008729985
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00029_24.513.tiff
+F
+results/BSD68_sigma25_S/00029_20.185.tiff
+image:  00029.bmp
+psnt: 24.513148070827455
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00046_26.472.tiff
+F
+results/BSD68_sigma25_S/00046_20.185.tiff
+image:  00046.bmp
+psnt: 26.47165910073972
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00037_28.698.tiff
+F
+results/BSD68_sigma25_S/00037_20.185.tiff
+image:  00037.bmp
+psnt: 28.697705392713022
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00063_26.638.tiff
+F
+results/BSD68_sigma25_S/00063_20.185.tiff
+image:  00063.bmp
+psnt: 26.637799240354568
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00008_26.330.tiff
+F
+results/BSD68_sigma25_S/00008_20.185.tiff
+image:  00008.bmp
+psnt: 26.33047569793179
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00027_30.158.tiff
+F
+results/BSD68_sigma25_S/00027_20.185.tiff
+image:  00027.bmp
+psnt: 30.1581374925939
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00051_28.637.tiff
+F
+results/BSD68_sigma25_S/00051_20.185.tiff
+image:  00051.bmp
+psnt: 28.637360687447412
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00023_29.034.tiff
+F
+results/BSD68_sigma25_S/00023_20.185.tiff
+image:  00023.bmp
+psnt: 29.033945340441573
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00011_29.209.tiff
+F
+results/BSD68_sigma25_S/00011_20.185.tiff
+image:  00011.bmp
+psnt: 29.208672414959132
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00006_33.097.tiff
+F
+results/BSD68_sigma25_S/00006_20.185.tiff
+image:  00006.bmp
+psnt: 33.09651243890619
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00012_28.509.tiff
+F
+results/BSD68_sigma25_S/00012_20.185.tiff
+image:  00012.bmp
+psnt: 28.509224793170578
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00048_30.078.tiff
+F
+results/BSD68_sigma25_S/00048_20.185.tiff
+image:  00048.bmp
+psnt: 30.078311779520206
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00068_26.232.tiff
+F
+results/BSD68_sigma25_S/00068_20.185.tiff
+image:  00068.bmp
+psnt: 26.231817934237714
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00060_31.092.tiff
+F
+results/BSD68_sigma25_S/00060_20.185.tiff
+image:  00060.bmp
+psnt: 31.091877014833898
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00009_29.110.tiff
+F
+results/BSD68_sigma25_S/00009_20.185.tiff
+image:  00009.bmp
+psnt: 29.10988885054913
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00013_29.673.tiff
+F
+results/BSD68_sigma25_S/00013_20.185.tiff
+image:  00013.bmp
+psnt: 29.672942955845826
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00021_26.473.tiff
+F
+results/BSD68_sigma25_S/00021_20.185.tiff
+image:  00021.bmp
+psnt: 26.47347120065582
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00062_32.779.tiff
+F
+results/BSD68_sigma25_S/00062_20.185.tiff
+image:  00062.bmp
+psnt: 32.77945633868798
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00030_30.028.tiff
+F
+results/BSD68_sigma25_S/00030_20.185.tiff
+image:  00030.bmp
+psnt: 30.027837293830366
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00055_27.682.tiff
+F
+results/BSD68_sigma25_S/00055_20.185.tiff
+image:  00055.bmp
+psnt: 27.682485098480573
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00036_27.596.tiff
+F
+results/BSD68_sigma25_S/00036_20.185.tiff
+image:  00036.bmp
+psnt: 27.596475442306257
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00004_30.820.tiff
+F
+results/BSD68_sigma25_S/00004_20.185.tiff
+image:  00004.bmp
+psnt: 30.819562440441292
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00058_30.970.tiff
+F
+results/BSD68_sigma25_S/00058_20.185.tiff
+image:  00058.bmp
+psnt: 30.96970665581876
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00025_29.599.tiff
+F
+results/BSD68_sigma25_S/00025_20.185.tiff
+image:  00025.bmp
+psnt: 29.599255262482473
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00035_28.192.tiff
+F
+results/BSD68_sigma25_S/00035_20.185.tiff
+image:  00035.bmp
+psnt: 28.192310565951672
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00050_27.009.tiff
+F
+results/BSD68_sigma25_S/00050_20.185.tiff
+image:  00050.bmp
+psnt: 27.009152440572084
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00053_31.165.tiff
+F
+results/BSD68_sigma25_S/00053_20.185.tiff
+image:  00053.bmp
+psnt: 31.16502613502511
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00032_26.714.tiff
+F
+results/BSD68_sigma25_S/00032_20.185.tiff
+image:  00032.bmp
+psnt: 26.714283239185818
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00005_27.626.tiff
+F
+results/BSD68_sigma25_S/00005_20.185.tiff
+image:  00005.bmp
+psnt: 27.625972809516565
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00026_28.729.tiff
+F
+results/BSD68_sigma25_S/00026_20.185.tiff
+image:  00026.bmp
+psnt: 28.72904165491937
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00056_24.130.tiff
+F
+results/BSD68_sigma25_S/00056_20.185.tiff
+image:  00056.bmp
+psnt: 24.129656172311044
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00007_28.804.tiff
+F
+results/BSD68_sigma25_S/00007_20.185.tiff
+image:  00007.bmp
+psnt: 28.803686011858698
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00019_28.359.tiff
+F
+results/BSD68_sigma25_S/00019_20.185.tiff
+image:  00019.bmp
+psnt: 28.359123436540234
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00010_29.910.tiff
+F
+results/BSD68_sigma25_S/00010_20.185.tiff
+image:  00010.bmp
+psnt: 29.91049542096809
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00020_28.928.tiff
+F
+results/BSD68_sigma25_S/00020_20.185.tiff
+image:  00020.bmp
+psnt: 28.927780769419872
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00065_29.013.tiff
+F
+results/BSD68_sigma25_S/00065_20.185.tiff
+image:  00065.bmp
+psnt: 29.013217966666414
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00067_24.787.tiff
+F
+results/BSD68_sigma25_S/00067_20.185.tiff
+image:  00067.bmp
+psnt: 24.787300562812522
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00034_33.676.tiff
+F
+results/BSD68_sigma25_S/00034_20.185.tiff
+image:  00034.bmp
+psnt: 33.675934717658485
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00022_27.270.tiff
+F
+results/BSD68_sigma25_S/00022_20.185.tiff
+image:  00022.bmp
+psnt: 27.270474732925287
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00059_30.509.tiff
+F
+results/BSD68_sigma25_S/00059_20.185.tiff
+image:  00059.bmp
+psnt: 30.50911329170619
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00049_31.605.tiff
+F
+results/BSD68_sigma25_S/00049_20.185.tiff
+image:  00049.bmp
+psnt: 31.604647478152277
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00052_32.119.tiff
+F
+results/BSD68_sigma25_S/00052_20.185.tiff
+image:  00052.bmp
+psnt: 32.118850576629484
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00031_24.674.tiff
+F
+results/BSD68_sigma25_S/00031_20.185.tiff
+image:  00031.bmp
+psnt: 24.674427735678123
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00054_29.311.tiff
+F
+results/BSD68_sigma25_S/00054_20.185.tiff
+image:  00054.bmp
+psnt: 29.311412630206902
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00024_28.776.tiff
+F
+results/BSD68_sigma25_S/00024_20.185.tiff
+image:  00024.bmp
+psnt: 28.776115202560284
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00001_25.953.tiff
+F
+results/BSD68_sigma25_S/00001_20.185.tiff
+image:  00001.bmp
+psnt: 25.953453450736088
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00044_27.887.tiff
+F
+results/BSD68_sigma25_S/00044_20.185.tiff
+image:  00044.bmp
+psnt: 27.886777436181674
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00043_30.615.tiff
+F
+results/BSD68_sigma25_S/00043_20.185.tiff
+image:  00043.bmp
+psnt: 30.614719539916294
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00028_33.393.tiff
+F
+results/BSD68_sigma25_S/00028_20.185.tiff
+image:  00028.bmp
+psnt: 33.39250969037098
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00066_38.080.tiff
+F
+results/BSD68_sigma25_S/00066_20.185.tiff
+image:  00066.bmp
+psnt: 38.08017920534874
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00057_28.390.tiff
+F
+results/BSD68_sigma25_S/00057_20.185.tiff
+image:  00057.bmp
+psnt: 28.390400560328008
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00064_26.797.tiff
+F
+results/BSD68_sigma25_S/00064_20.185.tiff
+image:  00064.bmp
+psnt: 26.796837546443435
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00016_28.274.tiff
+F
+results/BSD68_sigma25_S/00016_20.185.tiff
+image:  00016.bmp
+psnt: 28.274254902120283
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00015_27.393.tiff
+F
+results/BSD68_sigma25_S/00015_20.185.tiff
+image:  00015.bmp
+psnt: 27.39331148073174
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00018_33.170.tiff
+F
+results/BSD68_sigma25_S/00018_20.185.tiff
+image:  00018.bmp
+psnt: 33.16998997573008
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00061_30.324.tiff
+F
+results/BSD68_sigma25_S/00061_20.185.tiff
+image:  00061.bmp
+psnt: 30.323594556212605
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00041_28.058.tiff
+F
+results/BSD68_sigma25_S/00041_20.185.tiff
+image:  00041.bmp
+psnt: 28.057794132468317
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00042_29.765.tiff
+F
+results/BSD68_sigma25_S/00042_20.185.tiff
+image:  00042.bmp
+psnt: 29.765405688477315
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00039_33.169.tiff
+F
+results/BSD68_sigma25_S/00039_20.185.tiff
+image:  00039.bmp
+psnt: 33.16890836515426
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00033_27.999.tiff
+F
+results/BSD68_sigma25_S/00033_20.185.tiff
+image:  00033.bmp
+psnt: 27.999371513529205
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00040_29.503.tiff
+F
+results/BSD68_sigma25_S/00040_20.185.tiff
+image:  00040.bmp
+psnt: 29.50332353842748
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00038_29.177.tiff
+F
+results/BSD68_sigma25_S/00038_20.185.tiff
+image:  00038.bmp
+psnt: 29.17728753331451
+Figure(640x480)
+F
+results/BSD68_sigma25_S/00017_33.062.tiff
+F
+results/BSD68_sigma25_S/00017_20.185.tiff
+image:  00017.bmp
+psnt: 33.062432200812886
+psnrs:  [26.6789027497431, 33.73362292118357, 30.304182292795332, 30.994061358120778, 30.138273008729985, 24.513148070827455, 26.47165910073972, 28.697705392713022, 26.637799240354568, 26.33047569793179, 30.1581374925939, 28.637360687447412, 29.033945340441573, 29.208672414959132, 33.09651243890619, 28.509224793170578, 30.078311779520206, 26.231817934237714, 31.091877014833898, 29.10988885054913, 29.672942955845826, 26.47347120065582, 32.77945633868798, 30.027837293830366, 27.682485098480573, 27.596475442306257, 30.819562440441292, 30.96970665581876, 29.599255262482473, 28.192310565951672, 27.009152440572084, 31.16502613502511, 26.714283239185818, 27.625972809516565, 28.72904165491937, 24.129656172311044, 28.803686011858698, 28.359123436540234, 29.91049542096809, 28.927780769419872, 29.013217966666414, 24.787300562812522, 33.675934717658485, 27.270474732925287, 30.50911329170619, 31.604647478152277, 32.118850576629484, 24.674427735678123, 29.311412630206902, 28.776115202560284, 25.953453450736088, 27.886777436181674, 30.614719539916294, 33.39250969037098, 38.08017920534874, 28.390400560328008, 26.796837546443435, 28.274254902120283, 27.39331148073174, 33.16998997573008, 30.323594556212605, 28.057794132468317, 29.765405688477315, 33.16890836515426, 27.999371513529205, 29.50332353842748, 29.17728753331451, 33.062432200812886]
+Mean  BSD68Gray: 29.23dB 

@@ -1,0 +1,109 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+/content/ImageProcess
+init weights finished
+/usr/local/lib/python3.8/site-packages/torch/functional.py:512: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at ../aten/src/ATen/native/TensorShape.cpp:3587.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Figure(640x480)
+F
+results/Set12_sigma25_S/07_29.274.tiff
+F
+results/Set12_sigma25_S/07_20.166.tiff
+image:  07.png
+psnt: 29.273622381853453
+Figure(640x480)
+F
+results/Set12_sigma25_S/01_30.034.tiff
+F
+results/Set12_sigma25_S/01_20.166.tiff
+image:  01.png
+psnt: 30.03402783418138
+Figure(640x480)
+F
+results/Set12_sigma25_S/02_33.091.tiff
+F
+results/Set12_sigma25_S/02_20.166.tiff
+image:  02.png
+psnt: 33.09122703489897
+Figure(640x480)
+F
+results/Set12_sigma25_S/08_32.364.tiff
+F
+results/Set12_sigma25_S/08_20.181.tiff
+image:  08.png
+psnt: 32.36357140388749
+Figure(640x480)
+F
+results/Set12_sigma25_S/03_30.815.tiff
+F
+results/Set12_sigma25_S/03_20.166.tiff
+image:  03.png
+psnt: 30.81534896139474
+Figure(640x480)
+F
+results/Set12_sigma25_S/10_30.180.tiff
+F
+results/Set12_sigma25_S/10_20.181.tiff
+image:  10.png
+psnt: 30.180240767348568
+Figure(640x480)
+F
+results/Set12_sigma25_S/12_30.089.tiff
+F
+results/Set12_sigma25_S/12_20.181.tiff
+image:  12.png
+psnt: 30.089392252410825
+Figure(640x480)
+F
+results/Set12_sigma25_S/04_29.365.tiff
+F
+results/Set12_sigma25_S/04_20.166.tiff
+image:  04.png
+psnt: 29.3650631179746
+Figure(640x480)
+F
+results/Set12_sigma25_S/06_29.072.tiff
+F
+results/Set12_sigma25_S/06_20.166.tiff
+image:  06.png
+psnt: 29.071673840493734
+Figure(640x480)
+F
+results/Set12_sigma25_S/09_30.030.tiff
+F
+results/Set12_sigma25_S/09_20.181.tiff
+image:  09.png
+psnt: 30.03012897171214
+Figure(640x480)
+F
+results/Set12_sigma25_S/11_30.040.tiff
+F
+results/Set12_sigma25_S/11_20.181.tiff
+image:  11.png
+psnt: 30.039659954431514
+Figure(640x480)
+F
+results/Set12_sigma25_S/05_30.055.tiff
+F
+results/Set12_sigma25_S/05_20.166.tiff
+image:  05.png
+psnt: 30.05507606892889
+psnrs:  [29.273622381853453, 30.03402783418138, 33.09122703489897, 32.36357140388749, 30.81534896139474, 30.180240767348568, 30.089392252410825, 29.3650631179746, 29.071673840493734, 30.03012897171214, 30.039659954431514, 30.05507606892889]
+Mean      Set12: 30.37dB 
