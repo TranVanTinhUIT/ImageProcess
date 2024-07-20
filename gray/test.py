@@ -111,6 +111,8 @@ def main():
                         save_result(x_, path=os.path.join(args.result_dir, name+'_%.3f'% psnr_x_ +ext))  # save the denoised image
                         save_result(y, path=os.path.join(args.result_dir, name +'_%.3f'% psnr_y_+ ext))
                     psnrs.append(psnr_x_)
+                    print('image: ', im)
+                    print('psnt:', psnr_x_)
             psnr_avg = np.mean(psnrs)
             ans.append(psnr_avg)
             print('psnrs: ',psnrs)
